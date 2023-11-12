@@ -243,6 +243,7 @@ a {
   font-size: 48px;
   line-height: 64px;
   padding-bottom: 50px;
+  text-shadow: 10px 10px 10px #272727;
 }
 
 .header__button {
